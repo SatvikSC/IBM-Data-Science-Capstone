@@ -6,7 +6,15 @@ This project will be mainly used for the Applied Data Science Capstone, which is
 
 ## Introduction
 
-Street mishaps are incredibly normal. Customarily they lead to lost property and even life. Wouldn't it be extraordinary to have the option to comprehend what are the most well-known causes, so as to keep them from occurring? With this investigation, I am endeavoring to comprehend these variables and their relationship. This examination has different applications like an application that will incite the drivers to be more cautious relying upon the climate and street conditions on some random day or a path for the police to implement more wellbeing conventions. In this example, I am utilizing the information from the City of Seattle's police division indicating all the crashes from 2004 till present.
+Street traffic wounds are at present assessed to be the eighth driving reason for death over all age bunches all around the world and are anticipated to turn into the seventh driving reason for death by 2030. 
+
+Breaking down a huge scope of components, including climate conditions, unique occasions, roadworks, gridlocks among others, a precise forecast of the seriousness of the mishaps can be performed. 
+
+These bits of knowledge could permit law implementation bodies to apportion their assets all the more adequately ahead of time of possible mishaps, forestalling when and where serious mishaps can happen just as sparing both, time and cash. Moreover, this information on an extreme mishap circumstance can be cautioned to drivers with the goal that they would drive all the more cautiously or even change their course on the off chance that it is conceivable or to the medical clinic which might have set everything prepared for a serious intercession ahead of time. 
+
+Governments ought to be profoundly inspired by, exact expectations of the seriousness of a mishap, so as to diminish the hour of appearance and subsequently spare a lot of individuals every year. Others intrigued could be privately owned businesses putting resources into advancements meaning to improve street safeness. 
+
+This task comprises of a few sections separated into two unique note pads.
 
 ## Feature Selection
 
