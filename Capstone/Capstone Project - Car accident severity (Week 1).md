@@ -1,6 +1,6 @@
 ### 1. Clearly define a problem or an idea of your choice. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
 
-ANS:Street traffic wounds are at present assessed to be the eighth driving reason for death over all age bunches all around the world and are anticipated to turn into the seventh driving reason for death by 2030.
+**ANS:** Street traffic wounds are at present assessed to be the eighth driving reason for death over all age bunches all around the world and are anticipated to turn into the seventh driving reason for death by 2030.
 
 Breaking down a huge scope of components, including climate conditions, unique occasions, roadworks, gridlocks among others, a precise forecast of the seriousness of the mishaps can be performed.
 
@@ -13,7 +13,7 @@ This task comprises of a few sections separated into two unique note pads.
 
 ### 2. Describe the data that you will be using to solve the problem or execute your idea. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using.
 
-ANS: The original data for this project comes from the following Kaggle data set. In a previous notebook, Feature Selection, I performed a selection of the most relevant features for the prediction of traffic accident severity.
+**ANS:** The original data for this project comes from the following Kaggle data set. In a previous notebook, Feature Selection, I performed a selection of the most relevant features for the prediction of traffic accident severity.
 
 The features of the dataset resulting are the following:
 
