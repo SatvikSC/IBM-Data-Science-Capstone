@@ -44,3 +44,6 @@ This first notebook contains all the steps and transformations I performed for t
 For this particular issue *precision* implies the % of anticipated serious mishaps that were really extreme. The *recall* rather, is the % of genuinely serious mishaps that were appropriately anticipated. For this particular issue, the review is a higher priority than the exactness as a high review will support that all necessary assets will be prepared up to the seriousness of the accident.\ 
 
 For this situation, the review is a higher priority than the exactness as a high review will support that all necessary assets will be prepared up to the seriousness of the mishap. The *logistic regression*, *KNN*, and *SVM* models have comparable precision, be that as it may, the computational time from the relapse is obviously better than the other two models. Without no uncertainty, the *Random Forest* is the best model, simultaneously as the *log. res.* it improves the precision from 0.66 to 0.72 and the review from 0.45 to 0.59.
+
+
+## Links for Dataset: [Drive Link](https://drive.google.com/drive/folders/1N8_Mv3Z3UOmm8t1aAZ63i3iGczajsDWN?usp=sharing)
