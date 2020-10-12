@@ -18,7 +18,8 @@ This first notebook contains all the steps and transformations I performed for t
 + Data Cleaning
 + Exploratory data analysis
 + Model Development
-  + Random Forest
+  + Decision Tree
+   + Random Forest
   + Logistic Regression
   + KNN
   + SVM
