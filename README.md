@@ -39,9 +39,6 @@ In this week, you will continue working on your capstone project. Please remembe
 
 3. Your choice of a presentation or blogpost. (10 marks)
 
-Here are examples of previous outstanding submissions that should give you an idea of what your report would look like, what your notebook would look like in terms of clean, clear, and well-commented code, and what your presentation would look like or your blogpost would look like:
-
-Report: https://cocl.us/coursera_capstone_report \
-Notebook: https://cocl.us/coursera_capstone_notebook \
-Presentation: https://cocl.us/coursera_capstone_presentation \
-Blogpost: https://cocl.us/coursera_capstone_blogpost
+Report: https://bit.ly/3oQLA6c \
+Notebook: https://bit.ly/2RJSGxr \
+Presentation: https://bit.ly/3wBlpDd
